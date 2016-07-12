@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<title> All About Sharks</title>
+
+<style>
+ul {
+  list-style-type:square;
+}
+
+li{font-style: italic}
+h1{
+  color:blue;
+}
+
+h2{text-decoration:underline;
+}
+
+p{font-size:18px;
+color: red;
+text-indent:16px;
+background-color:magenta;
+}
+</style>
+
+<h1>Sharky Shark Shark</h1>
+<p> Sharkes are a type of fish...right? </p>
+
+
+
+<ul>
+  <li>Predators</li>
+  <li>Have lots of teeth</li>
+</ul>

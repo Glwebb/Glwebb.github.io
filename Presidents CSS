@@ -1,0 +1,17 @@
+<section>
+<ol> <!--this is for ordered lists-->
+  <li class= "democrat" id="current"> Barack Obama</li>
+  <li class= "republican">George W. Bush</li>
+  <li class= "democrat"> Bill Clinton</li>
+</ol>
+</section>
+
+<section>
+
+  <p>
+
+    Presidents are the head of the Executive branch of our government.
+
+  </p>
+
+</section>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<title>My First Web Page</title>
+</head>
+<body>
+<h1>Que Tal Mundo?!!</h1>
+<h3>Heeyyyyy</h3>
+
+<a href="http://starwars.wikia.com/wiki/Main_Page">Learn about Endor</a>
+<p> I'm sitting near two people who have never seen Star Wars, therefore,
+  they must visit my website and go to Star Wars Wiki!! </p>
+  <p>For my fellow friends who haven't seen Star Wars either...this is an Ewok!!</p>
+  <img src="ewok.jpg" width="173" height="135">

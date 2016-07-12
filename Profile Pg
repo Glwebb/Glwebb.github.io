@@ -1,0 +1,32 @@
+<!DOCTYPE html> <!--this lesson was taught by Shawn Tabai-->
+  <title> Giovy's Profile </title>
+  <h1> GIOVY WEBB <h1>
+    <img src="Giovy Letterman and Yale Pennant.jpg " width="353"; height="234"; >
+    <h3> About Me </h3>
+    <p>
+      Giovy is a Noogler, a new Googler (at least for the summer) &nbsp; SPACE
+                    <!--this is to show how to actually make white space show up-->
+    </p>
+    My favorite tag is the <strong> tag </strong>
+  AKA: My favorite tag is the &lt; strong &gt; tag
+
+<h3> <a href= "file:///Users/demouser/Documents/CSSI%20Webb/Giovy's%20Amigas"> Giovy's Amigas </a></h3>
+
+
+<h3> <a href="file:///Users/demouser/Documents/CSSI%20Webb/Giovy's%20Family"> Giovy's Family </a></h3>
+
+    <h3> Other Profiles </h3>
+    <ul>
+      <li><a href="http:www.facebook.com/GiovyWebb">Facebook</a><li>
+        <!--enter link to Instagram-->
+
+  <h2>My Favorite Movies</h2>
+  <ol> <!--this is for an ordered list-->
+    <li> Nacho Libre </li> <!-- this is how you write a "comment" so no one else can see what you're doing -->
+    <li> Harry Potter </li>
+    <li> Limitless/The Jungle Book (they're both completely different, I know, but I love them both!) </li>
+  </ol>
+
+
+<!--try to make this work
+  <script type="text/javascript" src="http://localhost:35729/livereload.js"> -->
